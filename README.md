@@ -30,3 +30,6 @@ ________________________________________________________________________________
 
 REDIS
 
+
+Learning Resources:
+https://www.bilibili.com/video/BV1aC4y1W7Rs
