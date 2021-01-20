@@ -33,3 +33,7 @@ redis
 
 Learning Resources:
 https://www.bilibili.com/video/BV1aC4y1W7Rs
+
+
+资料
+https://blog.csdn.net/qq_41918166
