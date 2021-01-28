@@ -28,6 +28,12 @@ Thanks
 
 _____________________________________________________________________________________
 
+Common Issues
+
+Static and Non-Static
+
+https://www.jianshu.com/p/80b404da976b
+
 Online Compiler 
 
 https://www.onlinegdb.com/online_java_compiler
